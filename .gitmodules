@@ -1,0 +1,3 @@
+[submodule "private1"]
+	path = private1
+	url = git@github.com:socrekhabar/private1.git
